@@ -7,7 +7,7 @@ class TestgetRepo(unittest.TestCase):
                     'Repository: helloworld Number of commits: 2',
                     'Repository: SSW-567 Number of commits: 2',
                     'Repository: SSW-695_COOKIT Number of commits: 1',
-                    'Repository: SSW567_HW04 Number of commits: 1',
+                    'Repository: SSW567_HW04 Number of commits: 4',
                     'Repository: Student_Repository Number of commits: 23',
                     'Repository: Triangle567 Number of commits: 14']
 
