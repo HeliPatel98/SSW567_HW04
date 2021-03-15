@@ -1,0 +1,788 @@
+[
+  {
+    "sha": "e172247d6317888e6fd4a9e178fe8933005e6f94",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OmUxNzIyNDdkNjMxNzg4OGU2ZmQ0YTllMTc4ZmU4OTMzMDA1ZTZmOTQ=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2019-03-11T17:03:37Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2019-03-11T17:03:37Z"
+      },
+      "message": "readme",
+      "tree": {
+        "sha": "edf6029b6ab693a8df833a7c130d8ce9f76652b5",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/edf6029b6ab693a8df833a7c130d8ce9f76652b5"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/e172247d6317888e6fd4a9e178fe8933005e6f94",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/e172247d6317888e6fd4a9e178fe8933005e6f94",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/e172247d6317888e6fd4a9e178fe8933005e6f94",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/e172247d6317888e6fd4a9e178fe8933005e6f94/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "345b92055a1e40efcaf21b1d9def25397adaeb28",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/345b92055a1e40efcaf21b1d9def25397adaeb28",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/345b92055a1e40efcaf21b1d9def25397adaeb28"
+      }
+    ]
+  },
+  {
+    "sha": "345b92055a1e40efcaf21b1d9def25397adaeb28",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjM0NWI5MjA1NWExZTQwZWZjYWYyMWIxZDlkZWYyNTM5N2FkYWViMjg=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-12-20T18:40:41Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-12-20T18:40:41Z"
+      },
+      "message": "testing ssh",
+      "tree": {
+        "sha": "d54d4e920fc752af7fbec25b20d947a318735a82",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/d54d4e920fc752af7fbec25b20d947a318735a82"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/345b92055a1e40efcaf21b1d9def25397adaeb28",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/345b92055a1e40efcaf21b1d9def25397adaeb28",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/345b92055a1e40efcaf21b1d9def25397adaeb28",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/345b92055a1e40efcaf21b1d9def25397adaeb28/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1d53739194a814262f881d87c695ec76cca36e91",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/1d53739194a814262f881d87c695ec76cca36e91",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/1d53739194a814262f881d87c695ec76cca36e91"
+      }
+    ]
+  },
+  {
+    "sha": "1d53739194a814262f881d87c695ec76cca36e91",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjFkNTM3MzkxOTRhODE0MjYyZjg4MWQ4N2M2OTVlYzc2Y2NhMzZlOTE=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T02:54:15Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T02:54:15Z"
+      },
+      "message": "reorganized a little",
+      "tree": {
+        "sha": "d1de308455cfed8f30637777473325e18dc21cd2",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/d1de308455cfed8f30637777473325e18dc21cd2"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/1d53739194a814262f881d87c695ec76cca36e91",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/1d53739194a814262f881d87c695ec76cca36e91",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/1d53739194a814262f881d87c695ec76cca36e91",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/1d53739194a814262f881d87c695ec76cca36e91/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6f10929b00683284881b8dd89e8af29314230a4f",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/6f10929b00683284881b8dd89e8af29314230a4f",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/6f10929b00683284881b8dd89e8af29314230a4f"
+      }
+    ]
+  },
+  {
+    "sha": "6f10929b00683284881b8dd89e8af29314230a4f",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjZmMTA5MjliMDA2ODMyODQ4ODFiOGRkODllOGFmMjkzMTQyMzBhNGY=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T02:44:23Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T02:44:23Z"
+      },
+      "message": "moved code from markdown cells into code cells, so that they could be tested",
+      "tree": {
+        "sha": "1035b54361c95f9032be833c8de79a56be016c3a",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/1035b54361c95f9032be833c8de79a56be016c3a"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/6f10929b00683284881b8dd89e8af29314230a4f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/6f10929b00683284881b8dd89e8af29314230a4f",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/6f10929b00683284881b8dd89e8af29314230a4f",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/6f10929b00683284881b8dd89e8af29314230a4f/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f61cacfb1481bf288bc178fbee48ea9e65804df2",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/f61cacfb1481bf288bc178fbee48ea9e65804df2",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/f61cacfb1481bf288bc178fbee48ea9e65804df2"
+      }
+    ]
+  },
+  {
+    "sha": "f61cacfb1481bf288bc178fbee48ea9e65804df2",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OmY2MWNhY2ZiMTQ4MWJmMjg4YmMxNzhmYmVlNDhlYTllNjU4MDRkZjI=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:28:48Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:28:48Z"
+      },
+      "message": "replace 'm' with 'injectedMock'",
+      "tree": {
+        "sha": "25f5be27f3c3415a62c15dc3fdbd17f9f79b3472",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/25f5be27f3c3415a62c15dc3fdbd17f9f79b3472"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/f61cacfb1481bf288bc178fbee48ea9e65804df2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/f61cacfb1481bf288bc178fbee48ea9e65804df2",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/f61cacfb1481bf288bc178fbee48ea9e65804df2",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/f61cacfb1481bf288bc178fbee48ea9e65804df2/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52"
+      }
+    ]
+  },
+  {
+    "sha": "19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjE5Mjg5YzdiNTNhZTNkY2FiNmJhYWJhOGVlNmQ1YmU3YWZiMTdlNTI=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:20:59Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:20:59Z"
+      },
+      "message": "should not assign mock.json.side_effect , rather just to mock.side_effect",
+      "tree": {
+        "sha": "691a811e5866fbe5489d078efeaf10b26e724e95",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/691a811e5866fbe5489d078efeaf10b26e724e95"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/19289c7b53ae3dcab6baaba8ee6d5be7afb17e52/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/2357f7f95bcd1962b1e480dce2ced258ea2eab54"
+      }
+    ]
+  },
+  {
+    "sha": "2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjIzNTdmN2Y5NWJjZDE5NjJiMWU0ODBkY2UyY2VkMjU4ZWEyZWFiNTQ=",
+    "commit": {
+      "author": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:14:43Z"
+      },
+      "committer": {
+        "name": "rich K",
+        "email": "richkempinski@gmail.com",
+        "date": "2018-10-04T01:14:43Z"
+      },
+      "message": "fixed incorrect information about how to setup side_effect for json results",
+      "tree": {
+        "sha": "56006e24c0ddbf3a2b1ebc77c0eef684a2db4674",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/56006e24c0ddbf3a2b1ebc77c0eef684a2db4674"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/2357f7f95bcd1962b1e480dce2ced258ea2eab54",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/2357f7f95bcd1962b1e480dce2ced258ea2eab54/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3"
+      }
+    ]
+  },
+  {
+    "sha": "1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjFiMGExMTk3Y2Y5NzRjMTZkMjRhMWZjZjA1ZWE3ZTljNmQ1MjcxZjM=",
+    "commit": {
+      "author": {
+        "name": "RichK",
+        "email": "1920366+richkempinski@users.noreply.github.com",
+        "date": "2018-10-03T01:11:35Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-10-03T01:11:35Z"
+      },
+      "message": "Update MockingPrimer.ipynb",
+      "tree": {
+        "sha": "cdc915bb8f1de42bc47272797644c08245240c59",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/cdc915bb8f1de42bc47272797644c08245240c59"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbtBdHCRBK7hj4Ov3rIwAAdHIIAFheKxXoc0GnSUR5ztQzRRn4\n1WgNu3Ivtseg/GdvqfHRdKaeyCyWQUh70+7Azmt698D1Kc0+9CcmwRehgjAQyBJ4\nkYu+2om2b92lDEvI6J8gNbQnC3uNSsmdntPfI/b8MXlqIi2OaX+7WKie/h8oFo25\nlwC6hBW5Kl6K230WbOE3ylozHvIKCk6ZVGdH+Cjl8v99kj1XQtBMsN5b+5RXuRI1\n+I4OxaMsKoDFByw1k/c++21iqCBcuza1BQSErTA2PsSs7aRJc02nbWm/PQI6K4rW\nhR5cf9h+7mqAlvqx41zs9dQoPbceGsQJRgshseSIlfmkKu3PqBkM6k5/PcIynYw=\n=WGXp\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree cdc915bb8f1de42bc47272797644c08245240c59\nparent 918dc0557009e906b588acd3a8f3a3a569041b75\nauthor RichK <1920366+richkempinski@users.noreply.github.com> 1538529095 -0400\ncommitter GitHub <noreply@github.com> 1538529095 -0400\n\nUpdate MockingPrimer.ipynb"
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/1b0a1197cf974c16d24a1fcf05ea7e9c6d5271f3/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "918dc0557009e906b588acd3a8f3a3a569041b75",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/918dc0557009e906b588acd3a8f3a3a569041b75",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/918dc0557009e906b588acd3a8f3a3a569041b75"
+      }
+    ]
+  },
+  {
+    "sha": "918dc0557009e906b588acd3a8f3a3a569041b75",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OjkxOGRjMDU1NzAwOWU5MDZiNTg4YWNkM2E4ZjNhM2E1NjkwNDFiNzU=",
+    "commit": {
+      "author": {
+        "name": "RichK",
+        "email": "1920366+richkempinski@users.noreply.github.com",
+        "date": "2018-10-02T23:16:10Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-10-02T23:16:10Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "f2a254501ca6b84e62a8d62f3b9d1afa9e057378",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/f2a254501ca6b84e62a8d62f3b9d1afa9e057378"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/918dc0557009e906b588acd3a8f3a3a569041b75",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbs/w6CRBK7hj4Ov3rIwAAdHIIAKAf9sMcYjmBIb9+6iDLgsX5\nOAsgPjV/b/faK2/0vO9Ujcfwai3C4Efh17glNI4fs/HD+/qwvYGbMVFiS7Tddpf4\ngMVPsxzcApT2NXPnBg0XXqulfudhb5jo3Pkdo/oRg99LaEbQuMMWqunR7R68/cqr\n1QgiPMBf2SPNcfWFRNALfqCUwBJqmc9l8qImufyLjlXTAl1KzEqEpx6EIcnAoMEc\nilIuGS5nZqEzUyO2k2MLCt0EWpzHmOZB5GuLtDELqIuMPPyz0XkI6Meer1aZzfjY\nzTwJGp+NdiX40F0/2DmYxGAp1vt36Am+HZ+gzWFOYkIGRnEik6uiFSqEypKt0a4=\n=WVxu\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f2a254501ca6b84e62a8d62f3b9d1afa9e057378\nparent ac0079d35c8279c3a30617e0981af193f868ea35\nauthor RichK <1920366+richkempinski@users.noreply.github.com> 1538522170 -0400\ncommitter GitHub <noreply@github.com> 1538522170 -0400\n\nAdd files via upload"
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/918dc0557009e906b588acd3a8f3a3a569041b75",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/918dc0557009e906b588acd3a8f3a3a569041b75",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/918dc0557009e906b588acd3a8f3a3a569041b75/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ac0079d35c8279c3a30617e0981af193f868ea35",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/commits/ac0079d35c8279c3a30617e0981af193f868ea35",
+        "html_url": "https://github.com/richkempinski/Mocks/commit/ac0079d35c8279c3a30617e0981af193f868ea35"
+      }
+    ]
+  },
+  {
+    "sha": "ac0079d35c8279c3a30617e0981af193f868ea35",
+    "node_id": "MDY6Q29tbWl0MTUxMzM1ODU4OmFjMDA3OWQzNWM4Mjc5YzNhMzA2MTdlMDk4MWFmMTkzZjg2OGVhMzU=",
+    "commit": {
+      "author": {
+        "name": "RichK",
+        "email": "1920366+richkempinski@users.noreply.github.com",
+        "date": "2018-10-02T23:15:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-10-02T23:15:01Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "94cf0101d1a348bb639040f067defa13c6c017e5",
+        "url": "https://api.github.com/repos/richkempinski/Mocks/git/trees/94cf0101d1a348bb639040f067defa13c6c017e5"
+      },
+      "url": "https://api.github.com/repos/richkempinski/Mocks/git/commits/ac0079d35c8279c3a30617e0981af193f868ea35",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbs/v1CRBK7hj4Ov3rIwAAdHIIAIE1lH3VQZfxEDDJgMZMWa0C\n9Z9PZ2aHGQB5wXeSvpIdNTlronidIT1jr4ZeLocg4FErf6si5uGjNiZJEKDO4f/s\nLIQz0FuesX8XQVRNlp4HzXGGel7ZM9lOOw+HVKgU24nf8DYBrVMB1DWId4Csqel0\nOdj1IQI1NigCbjMGZeB3vexSfMhUUtgjMiZPQxzUOA/wbuYwsAkhZkfEdlAhNTDz\nKGvNeMVkVfRPMsBwcFmUOM5IMwcuHPXAdJdJ3PUy8LYnJAvt6hiwsR4vdRd8hIS0\nLBsTN+lTR5gE/kcJLRhoEQOS9vAhoYETIhWBHVmy7pIgGghBFTL1nmqn+gsn1m8=\n=Cd4t\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 94cf0101d1a348bb639040f067defa13c6c017e5\nauthor RichK <1920366+richkempinski@users.noreply.github.com> 1538522101 -0400\ncommitter GitHub <noreply@github.com> 1538522101 -0400\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/richkempinski/Mocks/commits/ac0079d35c8279c3a30617e0981af193f868ea35",
+    "html_url": "https://github.com/richkempinski/Mocks/commit/ac0079d35c8279c3a30617e0981af193f868ea35",
+    "comments_url": "https://api.github.com/repos/richkempinski/Mocks/commits/ac0079d35c8279c3a30617e0981af193f868ea35/comments",
+    "author": {
+      "login": "richkempinski",
+      "id": 1920366,
+      "node_id": "MDQ6VXNlcjE5MjAzNjY=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1920366?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/richkempinski",
+      "html_url": "https://github.com/richkempinski",
+      "followers_url": "https://api.github.com/users/richkempinski/followers",
+      "following_url": "https://api.github.com/users/richkempinski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/richkempinski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/richkempinski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/richkempinski/subscriptions",
+      "organizations_url": "https://api.github.com/users/richkempinski/orgs",
+      "repos_url": "https://api.github.com/users/richkempinski/repos",
+      "events_url": "https://api.github.com/users/richkempinski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/richkempinski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
